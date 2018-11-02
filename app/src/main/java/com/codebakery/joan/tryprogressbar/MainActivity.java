@@ -20,6 +20,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        /*
+        * 깃테스트
+        * 수정했음!!!!!!!!!!!!!!!!!!!!!!!
+        * */
         textView = (TextView) findViewById(R.id.text);
         tgButtton = (ToggleButton) findViewById(R.id.tglButton);
         button = (Button) findViewById(R.id.button);
