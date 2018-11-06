@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         /*
         * 깃테스트
-        * 수정했음!!!!!!!!!!!!!!!!!!!!!!!
+        * 수정했음!!!!!!!!!!!!!!!!!!!!!!! add
         * */
         textView = (TextView) findViewById(R.id.text);
         tgButtton = (ToggleButton) findViewById(R.id.tglButton);
