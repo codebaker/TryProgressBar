@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         textView = (TextView) findViewById(R.id.text);
         tgButtton = (ToggleButton) findViewById(R.id.tglButton);
         button = (Button) findViewById(R.id.button);
-        progBar = (ProgressBar) findViewById(R.id.prgBar);
+//        progBar = (ProgressBar) findViewById(R.id.prgBar);
 
     }
 
