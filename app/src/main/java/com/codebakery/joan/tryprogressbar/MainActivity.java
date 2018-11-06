@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar progBar;
     String text = null;
 
+    // First add commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
